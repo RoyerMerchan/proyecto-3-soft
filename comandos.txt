@@ -13,3 +13,4 @@ docker stack rm proyecto
 
 docker swarm leave --force
 
+#
